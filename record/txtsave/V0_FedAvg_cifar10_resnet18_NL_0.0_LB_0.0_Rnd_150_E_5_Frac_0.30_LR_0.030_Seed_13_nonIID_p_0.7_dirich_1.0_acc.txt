@@ -1,0 +1,4 @@
+==================================================
+Training Parameters (V0 - Standard FedAvg):
+Namespace(alpha_dirichlet=1, dataset='cifar10', device=device(type='cuda'), frac=0.3, gpu=0, iid=False, level_n_lowerb=0, level_n_system=0, local_bs=10, local_ep=5, lr=0.03, model='resnet18', momentum=0.5, non_iid_prob_class=0.7, num_classes=10, num_users=50, rounds=150, seed=13)
+==================================================
